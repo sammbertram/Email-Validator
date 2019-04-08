@@ -7,7 +7,7 @@ usage: email-validator.py [-h] -H HOST [-p PORT] [-f FROM] -r RECIPIENT
                           [-i INDEX] [-b BANNER] [-D DOMAIN] [-t THRESHOLD]
                           [-d DELAY] [-j JITTER] [-c CSV] [-v] [-vv]
 
-Work in progress...smtp-rcpt-vrfy.py --host TARGETHOST -p 25 -f
+Work in progress...email-validator.py --host TARGETHOST -p 25 -f
 doesnotexist@gmail.com -r recipients.txt -D target.com -vv --delay 2000
 
 optional arguments:
